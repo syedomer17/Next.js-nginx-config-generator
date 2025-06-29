@@ -111,5 +111,3 @@ Feel free to open a pull request.
 ## 🌟 Show your support
 
 ⭐️ Star this repo if you like it!
-
-```
