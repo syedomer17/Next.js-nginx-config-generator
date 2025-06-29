@@ -113,5 +113,3 @@ Feel free to open a pull request.
 ⭐️ Star this repo if you like it!
 
 ```
-
----
